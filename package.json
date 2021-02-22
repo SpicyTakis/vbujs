@@ -1,0 +1,28 @@
+{
+  "name": "vbujs",
+  "version": "1.0.0",
+  "description": "A port of the python package voxelbotutils to Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpicyTakis/vbujs.git"
+  },
+  "keywords": [
+    "discordjs",
+    "discord",
+    "bot"
+  ],
+  "author": "SpicyTakis",
+  "license": "SEE LICENSE IN ./LICENSE",
+  "bugs": {
+    "url": "https://github.com/SpicyTakis/vbujs/issues"
+  },
+  "homepage": "https://github.com/SpicyTakis/vbujs#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "djs": "0.0.2"
+  }
+}
